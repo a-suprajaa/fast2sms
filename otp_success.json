@@ -1,0 +1,9 @@
+/*success response in get method*/
+
+{
+    "return": true,
+    "request_id": "lwdtp7cjyqxvfe9",
+    "message": [
+        "Message sent successfully"
+    ]
+}
